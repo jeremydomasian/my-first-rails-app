@@ -1,5 +1,9 @@
 == README
 
+=== Tutorial Used
+
+This app was created using this tutorial: http://installfest.railsbridge.org/installfest/create_a_rails_app by way of the The Odin Project - http://www.theodinproject.com/web-development-101/installations
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
